@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* 10px = 1rem */
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}/* You can add global styles to this file, and also import other style files */
