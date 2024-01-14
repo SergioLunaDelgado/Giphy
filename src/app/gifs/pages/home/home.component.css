@@ -1,0 +1,6 @@
+@media (min-width: 768px){
+    .gifs-card {
+        overflow-y: auto;
+        height: calc(90vh);
+    }
+}
